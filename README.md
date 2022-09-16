@@ -8,7 +8,7 @@ A brief documentation on how I set up my macOS install (at work) to satisfy my n
 - [Software](#software)
   - [Display Link Manager](#display-link-manager)
   - [Rectangle](#rectangle)
-- [Dock Customization]()
+- [Dock Customization](#dock-customization)
 
 # **Font**
 
